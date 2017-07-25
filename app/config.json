@@ -1,0 +1,15 @@
+{
+    "Smtp": {
+        "SmtpServer": "smtp.gmail.com",
+        "User": "mbirinci314159@gmail.com",
+        "Pass": "gmail.31415926",
+        "Port": 587,
+        "SslEnabled": false
+    },
+    "Seq": {
+        "Host": "http://localhost:5341",
+        "Signal": "TTG-SERVICES-MAIL"
+    }
+}
+
+
